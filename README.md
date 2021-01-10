@@ -1,5 +1,5 @@
 ## Hi there
-* I'm currently studying for a Bachelor of Science in Information Science at the University of Maryland, College Park.
+* I'm currently studying for a Bachelor of Science in Information Science at the **University of Maryland**, **College Park**.
 
 ## Main programming languages
 
