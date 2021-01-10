@@ -1,7 +1,7 @@
 ## Hi there
 
-* I'm mainly interested in database administration, system architecture, and data science.
 * I'm currently studying for a Bachelor of Science in Information Science at the **University of Maryland**, **College Park**.
+* I'm mainly interested in database administration, system architecture, and data science.
 
 ## Main programming languages
 
