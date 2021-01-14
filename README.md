@@ -21,4 +21,5 @@
 
 ## Contact 
 
-* **Mail:** diego.amores14@gmail.com
+* **Phone:** TBA
+* **Mail:** Diego.amores14@gmail.com
