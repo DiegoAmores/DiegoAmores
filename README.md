@@ -1,7 +1,7 @@
 ## Hi there
 
 * I'm have a Bachelor of Science degree in Information Science at the **University of Maryland**, **College Park**.
-* I'm mainly interested in database and system administration as well as web and software development.
+* I'm mainly interested in database and system administration, as well as web and software development.
 
 ## Main programming languages
 
