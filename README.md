@@ -1,6 +1,6 @@
 ## Hi there
 
-* I'm currently studying for a Bachelor of Science in Information Science at the **University of Maryland**, **College Park**.
+* I'm have a Bachelor of Science degree in Information Science at the **University of Maryland**, **College Park**.
 * I'm mainly interested in database administration, system administration, system architecture, and data science.
 
 ## Main programming languages
